@@ -1,0 +1,14 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "evstbevch",
+  "license": "草泥马",
+  "devDependencies": {
+    "electron": "^1.8.4"
+  }
+}
